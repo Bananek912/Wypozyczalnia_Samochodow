@@ -1,0 +1,13 @@
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.csproj.AssemblyReference.cache
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.Okno_startowe.resources
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.Properties.Resources.resources
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.csproj.GenerateResource.cache
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.csproj.CoreCompileInputs.cache
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\bin\Debug\BazaDanychPojazdow.exe.config
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\bin\Debug\BazaDanychPojazdow.exe
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\bin\Debug\BazaDanychPojazdow.pdb
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.exe
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.pdb
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.Busy_forms.resources
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.Motocykle.resources
+C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.Samochody.resources
