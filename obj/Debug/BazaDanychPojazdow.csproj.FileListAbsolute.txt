@@ -11,3 +11,16 @@ C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdo
 C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.Busy_forms.resources
 C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.Motocykle.resources
 C:\Users\gagus\Desktop\Projekt C#\BazaDanychPojazdow\obj\Debug\BazaDanychPojazdow.Samochody.resources
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\bin\Debug\BazaDanychPojazdow.exe.config
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\bin\Debug\BazaDanychPojazdow.exe
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\bin\Debug\BazaDanychPojazdow.pdb
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.csproj.AssemblyReference.cache
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.Busy_forms.resources
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.Motocykle.resources
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.Okno_startowe.resources
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.Properties.Resources.resources
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.Samochody.resources
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.csproj.GenerateResource.cache
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.csproj.CoreCompileInputs.cache
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.exe
+E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.pdb

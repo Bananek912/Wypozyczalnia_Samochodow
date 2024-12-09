@@ -52,6 +52,22 @@
     <Compile Include="Busy_forms.Designer.cs">
       <DependentUpon>Busy_forms.cs</DependentUpon>
     </Compile>
+    <Compile Include="DataStorage.cs" />
+    <Compile Include="Date.cs" />
+    <Compile Include="DateCalculator.cs" />
+    <Compile Include="DateFormatter.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Motocykle.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,8 +88,15 @@
     <Compile Include="Samochody.Designer.cs">
       <DependentUpon>Samochody.cs</DependentUpon>
     </Compile>
+    <Compile Include="SqlManager.cs" />
     <EmbeddedResource Include="Busy_forms.resx">
       <DependentUpon>Busy_forms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Motocykle.resx">
       <DependentUpon>Motocykle.cs</DependentUpon>
