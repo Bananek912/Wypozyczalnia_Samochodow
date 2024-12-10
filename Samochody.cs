@@ -156,5 +156,10 @@ namespace BazaDanychPojazdow
         {
 
         }
+
+        private void Samochody_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

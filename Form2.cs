@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BazaDanychPojazdow;
 
 namespace Projekt_winforms
 {
@@ -141,6 +142,33 @@ namespace Projekt_winforms
         private void Dodaj_Click(object sender, EventArgs e)
         {
             dateCalculator.AddTimeToDate(dateTimePicker1, int.Parse(Years.Text), int.Parse(Months.Text), int.Parse(Days.Text));
+        }
+
+        private void toolStripComboBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dateTimePicker1_ValueChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            // Tworzymy nowy obiekt formularza "Samochody"
+            Samochody samochodyForm = new Samochody();
+
+            // Ukrywamy obecny formularz
+            this.Hide();
+
+            // Otwieramy nowy formularz "Samochody"
+            samochodyForm.Show();
         }
     }
 }
