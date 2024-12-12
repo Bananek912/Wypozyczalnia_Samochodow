@@ -24,3 +24,12 @@ E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazd
 E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.csproj.CoreCompileInputs.cache
 E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.exe
 E:\studia\Aleksander projekt\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.pdb
+C:\Users\Klaudiusz\Documents\GitHub\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.csproj.AssemblyReference.cache
+C:\Users\Klaudiusz\Documents\GitHub\Wypozyczalnia_Samochodow\obj\Debug\Projekt_winforms.Form1.resources
+C:\Users\Klaudiusz\Documents\GitHub\Wypozyczalnia_Samochodow\obj\Debug\Projekt_winforms.Form2.resources
+C:\Users\Klaudiusz\Documents\GitHub\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.Properties.Resources.resources
+C:\Users\Klaudiusz\Documents\GitHub\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.Samochody.resources
+C:\Users\Klaudiusz\Documents\GitHub\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.csproj.GenerateResource.cache
+C:\Users\Klaudiusz\Documents\GitHub\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.csproj.CoreCompileInputs.cache
+C:\Users\Klaudiusz\Documents\GitHub\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.exe
+C:\Users\Klaudiusz\Documents\GitHub\Wypozyczalnia_Samochodow\obj\Debug\BazaDanychPojazdow.pdb

@@ -173,7 +173,7 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(153, 20);
             this.textBox4.TabIndex = 27;
-            this.textBox4.Text = "Wpisz Numer Vin";
+            this.textBox4.Text = "Vin number";
             this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged_1);
             // 
@@ -185,7 +185,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(122, 20);
             this.textBox3.TabIndex = 26;
-            this.textBox3.Text = "Wpisz Rok Produkcji";
+            this.textBox3.Text = "Production year";
             this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged_1);
             // 
@@ -196,7 +196,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(120, 20);
             this.textBox2.TabIndex = 25;
-            this.textBox2.Text = "Wpisz Model";
+            this.textBox2.Text = "Model";
             this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged_1);
             // 
@@ -207,7 +207,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(128, 20);
             this.textBox1.TabIndex = 24;
-            this.textBox1.Text = "Wpisz Marke";
+            this.textBox1.Text = "Brand";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged_1);
             // 
@@ -228,7 +228,7 @@
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(88, 20);
             this.textBox6.TabIndex = 29;
-            this.textBox6.Text = "No. Plate";
+            this.textBox6.Text = "Reg. Number";
             this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // Samochody
