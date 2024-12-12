@@ -8,8 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using BazaDanychPojazdow;
+using BazaDanychWypozyczen;
 
-namespace Projekt_winforms
+
+namespace BazaDanychPojazdow
 {
     public partial class Form2 : Form
     {

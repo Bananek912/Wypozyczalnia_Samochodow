@@ -10,7 +10,8 @@ using System.Windows.Forms;
 using BazaDanychPojazdow;
 using MySql.Data.MySqlClient;
 
-namespace Projekt_winforms
+
+namespace BazaDanychPojazdow
 {
     public partial class Form1 : Form
     {

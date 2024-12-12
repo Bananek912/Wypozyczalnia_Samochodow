@@ -1,4 +1,4 @@
-﻿namespace BazaDanychPojazdow
+﻿namespace BazaDanychWypozyczen
 {
     partial class Samochody
     {

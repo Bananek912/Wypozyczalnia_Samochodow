@@ -11,7 +11,8 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using ComboBox = System.Windows.Forms.ComboBox;
 using TextBox = System.Windows.Forms.TextBox;
 
-namespace Projekt_winforms
+
+namespace BazaDanychPojazdow
 {
     public class SqlManager
     {

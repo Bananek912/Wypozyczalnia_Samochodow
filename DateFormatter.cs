@@ -6,7 +6,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Projekt_winforms
+
+namespace BazaDanychPojazdow
 {
     public class DateFormatter
     {

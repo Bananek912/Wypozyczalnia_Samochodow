@@ -1,4 +1,5 @@
-﻿namespace Projekt_winforms
+﻿
+namespace BazaDanychPojazdow
 {
     partial class Form2
     {

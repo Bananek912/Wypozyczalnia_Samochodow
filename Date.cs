@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Projekt_winforms;
 
-namespace Projekt_winforms
+
+namespace BazaDanychPojazdow
 {
     public class Date
     {
