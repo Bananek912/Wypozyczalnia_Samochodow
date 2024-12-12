@@ -8,8 +8,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Projekt_winforms;
 
-namespace BazaDanychPojazdow
+namespace BazaDanychWypozyczen
 {
     public partial class Samochody : Form
     {
@@ -91,7 +92,7 @@ namespace BazaDanychPojazdow
         private void button4_Click(object sender, EventArgs e)
         {
             // Tworzymy nowy obiekt formularza Okno_startowe
-            Okno_startowe okno_Startowe = new Okno_startowe();
+            Form2 Form_2 = new Form2();
 
             // Zamykamy obecny formularz
             this.Close();

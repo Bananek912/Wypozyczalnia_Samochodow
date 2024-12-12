@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BazaDanychPojazdow;
 using MySql.Data.MySqlClient;
 
 namespace Projekt_winforms
@@ -42,10 +43,10 @@ namespace Projekt_winforms
 
                 if (connected)
                 {
-                    string username = username_txt.Text;
+                    GlobalVariables.username = username_txt.Text;
                     MessageBox.Show("Pomyślnie zalogowano");
                     this.Hide();
-                    Form2 f2 = new Form2(username);
+                    Form2 f2 = new Form2(GlobalVariables.username);
                     f2.ShowDialog();
                 }
                 else
