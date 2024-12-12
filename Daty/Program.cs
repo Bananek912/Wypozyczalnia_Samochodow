@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BazaDanychPojazdow
+namespace Projekt_winforms
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace BazaDanychPojazdow
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Projekt_winforms.Form1());
+            Application.Run(new Form1());
         }
     }
 }
