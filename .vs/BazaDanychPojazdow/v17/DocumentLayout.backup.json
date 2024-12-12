@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\sqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:sqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|e:\\studia\\aleksander projekt\\wypozyczalnia_samochodow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\samochody.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:samochody.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|e:\\studia\\aleksander projekt\\wypozyczalnia_samochodow\\sqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:sqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\dateformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,32 +59,12 @@
       "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\samochody.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:samochody.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\klienci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,14 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\klienci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:klienci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\klienci.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,75 +86,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:27:05.239Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwC0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:29:41.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Samochody.cs [Projekt]",
+              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Samochody.cs",
+              "RelativeDocumentMoniker": "Samochody.cs",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Samochody.cs [Projekt]",
+              "RelativeToolTip": "Samochody.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:30:36.361Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SqlManager.cs",
+              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\SqlManager.cs",
+              "RelativeDocumentMoniker": "SqlManager.cs",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\SqlManager.cs",
+              "RelativeToolTip": "SqlManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:56:43.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Samochody.cs",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Samochody.cs",
               "RelativeDocumentMoniker": "Samochody.cs",
               "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Samochody.cs",
               "RelativeToolTip": "Samochody.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAiwIUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAiwGAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:44:19.002Z"
+              "WhenOpened": "2024-12-10T14:44:19.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Samochody.Designer.cs",
-              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Samochody.Designer.cs",
-              "RelativeDocumentMoniker": "Samochody.Designer.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Samochody.Designer.cs",
-              "RelativeToolTip": "Samochody.Designer.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Title": "GlobalVariables.cs",
+              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\GlobalVariables.cs",
+              "RelativeDocumentMoniker": "GlobalVariables.cs",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\GlobalVariables.cs",
+              "RelativeToolTip": "GlobalVariables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:46:10.617Z"
+              "WhenOpened": "2024-12-12T08:35:12.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:30:06.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DataStorage.cs",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\DataStorage.cs",
               "RelativeDocumentMoniker": "DataStorage.cs",
               "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\DataStorage.cs",
               "RelativeToolTip": "DataStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:39:59.506Z"
+              "WhenOpened": "2024-12-12T08:39:59.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Date.cs",
-              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Date.cs",
-              "RelativeDocumentMoniker": "Date.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Date.cs",
-              "RelativeToolTip": "Date.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.cs*",
+              "RelativeToolTip": "Form2.cs*",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIwAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:40:04.667Z"
+              "WhenOpened": "2024-12-10T13:52:16.147Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DateCalculator.cs",
-              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\DateCalculator.cs",
-              "RelativeDocumentMoniker": "DateCalculator.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\DateCalculator.cs",
-              "RelativeToolTip": "DateCalculator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwHoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:40:01.911Z"
+              "WhenOpened": "2024-12-12T08:26:02.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "DateFormatter.cs",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\DateFormatter.cs",
               "RelativeDocumentMoniker": "DateFormatter.cs",
@@ -166,55 +238,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 12,
+              "Title": "DateCalculator.cs",
+              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\DateCalculator.cs",
+              "RelativeDocumentMoniker": "DateCalculator.cs",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\DateCalculator.cs",
+              "RelativeToolTip": "DateCalculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:27:05.239Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-12T08:40:01.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Date.cs",
+              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Date.cs",
+              "RelativeDocumentMoniker": "Date.cs",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Date.cs",
+              "RelativeToolTip": "Date.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:29:41.222Z",
+              "WhenOpened": "2024-12-12T08:40:04.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Samochody.Designer.cs",
+              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Samochody.Designer.cs",
+              "RelativeDocumentMoniker": "Samochody.Designer.cs",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Samochody.Designer.cs",
+              "RelativeToolTip": "Samochody.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:46:10.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Samochody.cs [Projekt]",
-              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Samochody.cs",
-              "RelativeDocumentMoniker": "Samochody.cs",
-              "ToolTip": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Samochody.cs [Projekt]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:30:36.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SqlManager.cs",
-              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\SqlManager.cs",
-              "RelativeDocumentMoniker": "SqlManager.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\SqlManager.cs*",
-              "RelativeToolTip": "SqlManager.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:56:43.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
@@ -222,45 +283,24 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:43:18.758Z"
+              "WhenOpened": "2024-12-12T08:43:18.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.cs",
-              "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:52:16.147Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Form2.cs [Projekt]",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Form2.cs [Projekt]",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.cs [Projekt]*",
+              "RelativeToolTip": "Form2.cs [Projekt]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T20:27:09.485Z"
+              "WhenOpened": "2024-12-09T20:27:09.485Z",
+              "EditorCaption": " [Projekt]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:30:06.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Klienci.cs",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Klienci.cs",
               "RelativeDocumentMoniker": "Klienci.cs",
@@ -272,41 +312,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Klienci.cs [Projekt]",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Klienci.cs",
               "RelativeDocumentMoniker": "Klienci.cs",
-              "ToolTip": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Klienci.cs [Projekt]",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Klienci.cs [Projekt]",
+              "RelativeToolTip": "Klienci.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T08:28:06.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GlobalVariables.cs",
-              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\GlobalVariables.cs",
-              "RelativeDocumentMoniker": "GlobalVariables.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\GlobalVariables.cs",
-              "RelativeToolTip": "GlobalVariables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:35:12.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.Designer.cs",
-              "RelativeDocumentMoniker": "Form2.Designer.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.Designer.cs",
-              "RelativeToolTip": "Form2.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T08:26:02.833Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",

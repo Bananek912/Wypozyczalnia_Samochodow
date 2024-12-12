@@ -55,7 +55,7 @@ namespace BazaDanychPojazdow
 
         private void button1_Click(object sender, EventArgs e)
         {
-            sqlmanager.AddDate(this.dateTimePicker1.Text, this.textBox1.Text, usernamein);
+            //sqlmanager.AddDate(this.dateTimePicker1.Text, this.textBox1.Text, usernamein);
         }
 
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
@@ -75,23 +75,23 @@ namespace BazaDanychPojazdow
 
         private void Editbutton_Click(object sender, EventArgs e)
         {
-            sqlmanager.EditDate(int.Parse(this.id_value.Text), this.dateTimePicker1.Text, this.textBox1.Text, usernamein);
+            //sqlmanager.EditDate(int.Parse(this.id_value.Text), this.dateTimePicker1.Text, this.textBox1.Text, usernamein);
         }
 
         private void Deletebutton_Click(object sender, EventArgs e)
         {
-            sqlmanager.DeleteDate(int.Parse(this.id_value.Text), this.dateTimePicker1.Text, this.textBox1.Text, usernamein);
+            //sqlmanager.DeleteDate(int.Parse(this.id_value.Text), this.dateTimePicker1.Text, this.textBox1.Text, usernamein);
         }
 
         private void AddStringbutton_Click(object sender, EventArgs e)
         {
-            string Descriptstr = textBox1.Text;
-            comboBox1.Items.Add(Descriptstr);
+            //string Descriptstr = textBox1.Text;
+            //comboBox1.Items.Add(Descriptstr);
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            sqlmanager.ComboValuesReader(id_value, comboBox1, textBox1, dateTimePicker1);
+            //sqlmanager.ComboValuesReader(id_value, comboBox1, textBox1, dateTimePicker1);
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -116,9 +116,9 @@ namespace BazaDanychPojazdow
 
         private void Czyscik_Click(object sender, EventArgs e)
         {
-            this.id_value.Text = "";
-            this.textBox1.Text = "";
-            this.dateTimePicker1.Text = "";
+            //this.id_value.Text = "";
+            //this.textBox1.Text = "";
+            //this.dateTimePicker1.Text = "";
         }
 
         private void Refresh_Click(object sender, EventArgs e)
@@ -138,12 +138,12 @@ namespace BazaDanychPojazdow
 
         private void Odejmij_Click(object sender, EventArgs e)
         {
-            dateCalculator.SubtractTimeFromDate(dateTimePicker1, int.Parse(Years.Text), int.Parse(Months.Text), int.Parse(Days.Text));
+            //dateCalculator.SubtractTimeFromDate(dateTimePicker1, int.Parse(Years.Text), int.Parse(Months.Text), int.Parse(Days.Text));
         }
 
         private void Dodaj_Click(object sender, EventArgs e)
         {
-            dateCalculator.AddTimeToDate(dateTimePicker1, int.Parse(Years.Text), int.Parse(Months.Text), int.Parse(Days.Text));
+            //dateCalculator.AddTimeToDate(dateTimePicker1, int.Parse(Years.Text), int.Parse(Months.Text), int.Parse(Days.Text));
         }
 
         private void toolStripComboBox1_Click(object sender, EventArgs e)
