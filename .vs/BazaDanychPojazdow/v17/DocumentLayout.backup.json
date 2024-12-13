@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -148,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Samochody.cs",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Samochody.cs",
               "RelativeDocumentMoniker": "Samochody.cs",
@@ -174,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -187,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DataStorage.cs",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\DataStorage.cs",
               "RelativeDocumentMoniker": "DataStorage.cs",
@@ -200,12 +200,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2.cs",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.cs*",
-              "RelativeToolTip": "Form2.cs*",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
               "ViewState": "AgIAAHsAAAAAAAAAAAAAAIwAAACIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T13:52:16.147Z",
@@ -213,13 +213,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
               "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.Designer.cs",
               "RelativeToolTip": "Form2.Designer.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAQwHoAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwHoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T08:26:02.833Z",
               "EditorCaption": ""
@@ -292,8 +292,8 @@
               "Title": "Form2.cs [Projekt]",
               "DocumentMoniker": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.cs [Projekt]*",
-              "RelativeToolTip": "Form2.cs [Projekt]*",
+              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Form2.cs [Projekt]",
+              "RelativeToolTip": "Form2.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T20:27:09.485Z",
               "EditorCaption": " [Projekt]"
