@@ -25,8 +25,8 @@ namespace BazaDanychPojazdow
 
         public void AddRecord(string loggedusername, string sqltable, string sqlcolumns, string sqlvalues)
         {
-            string myConnection = "datasource=localhost;port=3306;username=root;database=Wypozyczalnia;";
-            string insertRecord = "insert into Wypozyczalnia." + sqltable +" (" + sqlcolumns + ") VALUES (" + sqlvalues + ");";
+            string myConnection = "datasource=sql7.freesqldatabase.com;port=3306;username=sql7751795;password=rWIrzXsbFL;database=sql7751795;";
+            string insertRecord = "insert into sql7751795." + sqltable +" (" + sqlcolumns + ") VALUES (" + sqlvalues + ");";
             MySqlConnection myConn = new MySqlConnection(myConnection);
             MySqlCommand command = new MySqlCommand(insertRecord, myConn); 
             MySqlDataReader myReader;
@@ -34,7 +34,7 @@ namespace BazaDanychPojazdow
             {
                 myConn.Open();
                 myReader = command.ExecuteReader();
-                MessageBox.Show("Data została wpsiana");
+                MessageBox.Show("Wpis dodany pomyslnie");
                 while (myReader.Read())
                 {
                     

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\sqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|c:\\users\\m.martyka\\documents\\github\\wypozyczalnia_samochodow\\sqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:sqlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|c:\\users\\m.martyka\\documents\\github\\wypozyczalnia_samochodow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\samochody.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:samochody.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|solutionrelative:samochody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E87CC5DC-BF5F-4DF9-A4FE-CD56D750777B}|BazaDanychPojazdow.csproj|C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\dateformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,11 +86,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -101,12 +105,21 @@
               "EditorCaption": " [Projekt]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlManager.cs",
+              "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\SqlManager.cs",
+              "RelativeDocumentMoniker": "SqlManager.cs",
+              "ToolTip": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\SqlManager.cs",
+              "RelativeToolTip": "SqlManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:56:43.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
@@ -114,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -122,34 +135,24 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAmwC0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:29:41.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Samochody.cs [Projekt]",
-              "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Samochody.cs",
-              "RelativeDocumentMoniker": "Samochody.cs",
-              "ToolTip": "E:\\studia\\Aleksander projekt\\Wypozyczalnia_Samochodow\\Samochody.cs [Projekt]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:30:36.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SqlManager.cs",
-              "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\SqlManager.cs",
-              "RelativeDocumentMoniker": "SqlManager.cs",
-              "ToolTip": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\SqlManager.cs",
-              "RelativeToolTip": "SqlManager.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:56:43.567Z",
+              "WhenOpened": "2024-12-10T14:29:41.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Samochody.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Samochody.cs",
+              "RelativeDocumentMoniker": "Samochody.cs",
+              "ToolTip": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Samochody.cs [Projekt]",
+              "RelativeToolTip": "Samochody.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:30:36.361Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Samochody.cs",
               "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Samochody.cs",
               "RelativeDocumentMoniker": "Samochody.cs",
@@ -157,11 +160,12 @@
               "RelativeToolTip": "Samochody.cs",
               "ViewState": "AgIAAH8AAAAAAAAAAAAiwGAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:44:19.002Z"
+              "WhenOpened": "2024-12-10T14:44:19.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "GlobalVariables.cs",
               "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\GlobalVariables.cs",
               "RelativeDocumentMoniker": "GlobalVariables.cs",
@@ -173,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -185,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DataStorage.cs",
               "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\DataStorage.cs",
               "RelativeDocumentMoniker": "DataStorage.cs",
@@ -197,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -209,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form2.Designer.cs",
               "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
@@ -257,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Samochody.Designer.cs",
               "DocumentMoniker": "C:\\Users\\m.martyka\\Documents\\GitHub\\Wypozyczalnia_Samochodow\\Samochody.Designer.cs",
               "RelativeDocumentMoniker": "Samochody.Designer.cs",
@@ -265,7 +269,8 @@
               "RelativeToolTip": "Samochody.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:46:10.617Z"
+              "WhenOpened": "2024-12-10T14:46:10.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
