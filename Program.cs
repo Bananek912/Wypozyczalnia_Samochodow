@@ -16,7 +16,7 @@ namespace BazaDanychPojazdow
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Projekt_winforms.Form1());
+            Application.Run(new Form1());
         }
     }
 }

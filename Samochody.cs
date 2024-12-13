@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BazaDanychPojazdow;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,7 +9,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Projekt_winforms;
 
 namespace BazaDanychWypozyczen
 {
@@ -92,13 +92,13 @@ namespace BazaDanychWypozyczen
         private void button4_Click(object sender, EventArgs e)
         {
             // Tworzymy nowy obiekt formularza Okno_startowe
-            Form2 Form_2 = new Form2();
+            Form2 f2 = new Form2(GlobalVariables.username);
 
             // Zamykamy obecny formularz
             this.Close();
 
             // Otwieramy formularz Okno_startowe
-            okno_Startowe.Show();
+            f2.Show();
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)

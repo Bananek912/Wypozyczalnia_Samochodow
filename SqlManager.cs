@@ -18,23 +18,22 @@ namespace BazaDanychPojazdow
     {
         public string username;
         public DateFormatter dateFormatter;
-        public SqlManager(string username)
+        public SqlManager()
         {
-            this.username = username;
         }
 
-        public void AddDate(string date, string description,string loggedusername)
+        public void AddRecord(string sqltable, string sqlcolumns, string sqlvalues)
         {
-            string myConnection = "datasource=localhost;port=3306;username=root;database=Daty;";
-            string addDate = "insert into Daty.dates (date, description, user_id) VALUES ('" + date+ "', '" + description+ "' , (select users.id from users where username = '" + username+"'));";
+            string myConnection = "datasource=sql7.freesqldatabase.com;port=3306;username=sql7751795;password=rWIrzXsbFL;database=sql7751795;";
+            string insertRecord = "insert into sql7751795." + sqltable +" (" + sqlcolumns + ") VALUES (" + sqlvalues + ");";
             MySqlConnection myConn = new MySqlConnection(myConnection);
-            MySqlCommand command = new MySqlCommand(addDate, myConn); 
+            MySqlCommand command = new MySqlCommand(insertRecord, myConn); 
             MySqlDataReader myReader;
             try
             {
                 myConn.Open();
                 myReader = command.ExecuteReader();
-                MessageBox.Show("Data została wpsiana");
+                MessageBox.Show("Wpis dodany pomyslnie");
                 while (myReader.Read())
                 {
                     
