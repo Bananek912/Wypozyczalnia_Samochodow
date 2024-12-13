@@ -28,7 +28,7 @@ namespace BazaDanychPojazdow
             usernamein = username;
             timer1.Start();
             dateformatter = new DateFormatter();
-            sqlmanager = new SqlManager(usernamein);
+            sqlmanager = new SqlManager();
             dateCalculator = new DateCalculator();
             sqlmanager.FillCombo(comboBox1);
             sqlmanager.ShowTableView(dataGridView1);

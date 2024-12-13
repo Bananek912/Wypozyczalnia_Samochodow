@@ -18,12 +18,11 @@ namespace BazaDanychPojazdow
     {
         public string username;
         public DateFormatter dateFormatter;
-        public SqlManager(string username)
+        public SqlManager()
         {
-            this.username = username;
         }
 
-        public void AddRecord(string loggedusername, string sqltable, string sqlcolumns, string sqlvalues)
+        public void AddRecord(string sqltable, string sqlcolumns, string sqlvalues)
         {
             string myConnection = "datasource=sql7.freesqldatabase.com;port=3306;username=sql7751795;password=rWIrzXsbFL;database=sql7751795;";
             string insertRecord = "insert into sql7751795." + sqltable +" (" + sqlcolumns + ") VALUES (" + sqlvalues + ");";
