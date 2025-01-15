@@ -21,6 +21,8 @@ namespace BazaDanychPojazdow
         private SqlManager sqlmanager;
         private DateCalculator dateCalculator;
 
+        //host : db4free.net, port 3306 : baza_samochodow, user_samochody12, haslo_samochody123
+
 
         public Form2(string username)
         {

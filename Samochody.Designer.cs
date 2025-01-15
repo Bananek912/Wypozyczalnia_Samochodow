@@ -28,13 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button6 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.Marka = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Model = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.RokProdukcji = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.NrVin = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.button4 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
@@ -46,28 +40,14 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.textBox6 = new System.Windows.Forms.TextBox();
+            this.Typ = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Marka = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Model = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.RokProdukcji = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NrRejestracyjny = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NrVin = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // button6
-            // 
-            this.button6.Location = new System.Drawing.Point(649, 613);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(106, 23);
-            this.button6.TabIndex = 23;
-            this.button6.Text = "Save to file";
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(522, 613);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(121, 23);
-            this.button5.TabIndex = 22;
-            this.button5.Text = "Load from file";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // dataGridView1
             // 
@@ -79,40 +59,18 @@
             this.dataGridView1.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCellsExceptHeaders;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Typ,
             this.Marka,
             this.Model,
             this.RokProdukcji,
+            this.NrRejestracyjny,
             this.NrVin});
-            this.dataGridView1.Location = new System.Drawing.Point(12, 109);
+            this.dataGridView1.Location = new System.Drawing.Point(2, 109);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
-            this.dataGridView1.Size = new System.Drawing.Size(743, 498);
+            this.dataGridView1.Size = new System.Drawing.Size(753, 498);
             this.dataGridView1.TabIndex = 17;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
-            // 
-            // Marka
-            // 
-            this.Marka.HeaderText = "Marka";
-            this.Marka.Name = "Marka";
-            this.Marka.ReadOnly = true;
-            // 
-            // Model
-            // 
-            this.Model.HeaderText = "Model";
-            this.Model.Name = "Model";
-            this.Model.ReadOnly = true;
-            // 
-            // RokProdukcji
-            // 
-            this.RokProdukcji.HeaderText = "Rok Produkcji";
-            this.RokProdukcji.Name = "RokProdukcji";
-            this.RokProdukcji.ReadOnly = true;
-            // 
-            // NrVin
-            // 
-            this.NrVin.HeaderText = "Numer Vin";
-            this.NrVin.Name = "NrVin";
-            this.NrVin.ReadOnly = true;
             // 
             // button4
             // 
@@ -157,7 +115,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 51);
+            this.button1.Location = new System.Drawing.Point(25, 41);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(108, 24);
             this.button1.TabIndex = 12;
@@ -218,8 +176,8 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(59, 20);
             this.textBox5.TabIndex = 28;
-            this.textBox5.Text = "Type";
             this.textBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox5.TextChanged += new System.EventHandler(this.textBox5_TextChanged);
             // 
             // textBox6
             // 
@@ -230,6 +188,49 @@
             this.textBox6.TabIndex = 29;
             this.textBox6.Text = "Reg. Number";
             this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
+            // 
+            // Typ
+            // 
+            this.Typ.FillWeight = 98.90017F;
+            this.Typ.HeaderText = "Typ";
+            this.Typ.Name = "Typ";
+            this.Typ.ReadOnly = true;
+            // 
+            // Marka
+            // 
+            this.Marka.FillWeight = 98.90017F;
+            this.Marka.HeaderText = "Marka";
+            this.Marka.Name = "Marka";
+            this.Marka.ReadOnly = true;
+            // 
+            // Model
+            // 
+            this.Model.FillWeight = 98.90017F;
+            this.Model.HeaderText = "Model";
+            this.Model.Name = "Model";
+            this.Model.ReadOnly = true;
+            // 
+            // RokProdukcji
+            // 
+            this.RokProdukcji.FillWeight = 98.90017F;
+            this.RokProdukcji.HeaderText = "Rok Produkcji";
+            this.RokProdukcji.Name = "RokProdukcji";
+            this.RokProdukcji.ReadOnly = true;
+            // 
+            // NrRejestracyjny
+            // 
+            this.NrRejestracyjny.FillWeight = 98.90017F;
+            this.NrRejestracyjny.HeaderText = "Nr. Rejestracyjny";
+            this.NrRejestracyjny.Name = "NrRejestracyjny";
+            this.NrRejestracyjny.ReadOnly = true;
+            // 
+            // NrVin
+            // 
+            this.NrVin.FillWeight = 98.90017F;
+            this.NrVin.HeaderText = "Numer Vin";
+            this.NrVin.Name = "NrVin";
+            this.NrVin.ReadOnly = true;
             // 
             // Samochody
             // 
@@ -242,8 +243,6 @@
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button5);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.label1);
@@ -260,14 +259,7 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button5;
         private System.Windows.Forms.DataGridView dataGridView1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Marka;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Model;
-        private System.Windows.Forms.DataGridViewTextBoxColumn RokProdukcji;
-        private System.Windows.Forms.DataGridViewTextBoxColumn NrVin;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button3;
@@ -279,5 +271,11 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Typ;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Marka;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Model;
+        private System.Windows.Forms.DataGridViewTextBoxColumn RokProdukcji;
+        private System.Windows.Forms.DataGridViewTextBoxColumn NrRejestracyjny;
+        private System.Windows.Forms.DataGridViewTextBoxColumn NrVin;
     }
 }

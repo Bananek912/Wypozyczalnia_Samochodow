@@ -22,10 +22,14 @@ namespace BazaDanychPojazdow
         {
         }
 
+        //host : db4free.net, port 3306 : baza_samochodow, user_samochody12, haslo_samochody123
+
+        string myConnection = "datasource=db4free.net;port=3306;username=user_samochody12;password=haslo_samochody123;database=baza_samochodow;";
+
         public void AddRecord(string sqltable, string sqlcolumns, string sqlvalues)
         {
-            string myConnection = "datasource=sql7.freesqldatabase.com;port=3306;username=sql7751795;password=rWIrzXsbFL;database=sql7751795;";
-            string insertRecord = "insert into sql7751795." + sqltable +" (" + sqlcolumns + ") VALUES (" + sqlvalues + ");";
+            
+            string insertRecord = "insert into " + sqltable +" (" + sqlcolumns + ") VALUES (" + sqlvalues + ");";
             MySqlConnection myConn = new MySqlConnection(myConnection);
             MySqlCommand command = new MySqlCommand(insertRecord, myConn); 
             MySqlDataReader myReader;
@@ -47,7 +51,6 @@ namespace BazaDanychPojazdow
 
         public void EditDate(int id, string date, string description, string loggedusername)
         {
-            string myConnection = "datasource=localhost;port=3306;username=root;database=Daty;";
             string editDate = "update Daty.dates set date = '" + date + "',description =  '" + description + "' ,user_id = (select users.id from users where username = '" + username + "') where id = " + id + ";";
             MySqlConnection myConn = new MySqlConnection(myConnection);
             MySqlCommand command = new MySqlCommand(editDate, myConn);
@@ -70,7 +73,6 @@ namespace BazaDanychPojazdow
 
         public void DeleteDate(int id, string date, string description, string loggedusername)
         {
-            string myConnection = "datasource=localhost;port=3306;username=root;database=Daty;";
             string deleteDate = "delete from Daty.dates where id = " + id + ";";
             MySqlConnection myConn = new MySqlConnection(myConnection);
             MySqlCommand command = new MySqlCommand(deleteDate, myConn);

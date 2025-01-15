@@ -14,9 +14,13 @@ namespace BazaDanychWypozyczen
 {
     public partial class Samochody : Form
     {
+
+        private SqlManager sqlmanager;
         public Samochody()
         {
             InitializeComponent();
+            sqlmanager = new SqlManager();
+            textBox5.SetPlaceholder("Type");
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -131,11 +135,16 @@ namespace BazaDanychWypozyczen
         //przycisk dodaj
         private void button1_Click(object sender, EventArgs e)
         {
-            dataGridView1.Rows.Add(textBox1.Text, textBox2.Text, textBox3.Text, textBox4.Text);
-            textBox1.Text = "";
-            textBox2.Text = "";
-            textBox3.Text = "";
-            textBox4.Text = "";
+            sqlmanager.AddRecord("samochody", "Typ, Marka, Model, Rok_Produkcji, Nr_Rejestracyjny, Numer_Vin", "'" + textBox5.Text + "', '" 
+                + textBox1.Text+ "', '" + textBox2.Text + "', '" + textBox3.Text + "', '" + textBox6.Text + "', '" + textBox4.Text + "'");
+
+            dataGridView1.Rows.Add(textBox5.Text, textBox1.Text, textBox2.Text, textBox3.Text, textBox6.Text, textBox4.Text);
+            textBox5.Text = ""; // - Typ
+            textBox1.Text = ""; // - Marka
+            textBox2.Text = ""; // - Model
+            textBox3.Text = ""; // - Rok Produkcji
+            textBox6.Text = ""; // - Nr rejestracyjny
+            textBox4.Text = ""; // - Numer Vin
         }
 
         private void textBox1_TextChanged_1(object sender, EventArgs e)
@@ -159,6 +168,16 @@ namespace BazaDanychWypozyczen
         }
 
         private void Samochody_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox5_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox6_TextChanged(object sender, EventArgs e)
         {
 
         }

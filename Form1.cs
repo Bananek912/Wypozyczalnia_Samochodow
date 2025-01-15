@@ -27,6 +27,8 @@ namespace BazaDanychPojazdow
             
         }
 
+        //host : db4free.net, port 3306 : baza_samochodow, user_samochody12, haslo_samochody123
+
         private void button1_Click(object sender, EventArgs e)
         {
             //sqlmanager.AddRecord("Testowa", "imie, nazwisko", "'Testowy', 'Test'");
@@ -38,10 +40,10 @@ namespace BazaDanychPojazdow
             //f2.ShowDialog();
             try
             {
-                string myConnection = "datasource=sql7.freesqldatabase.com;port=3306;username=sql7751795;password=rWIrzXsbFL;";
+                string myConnection = "datasource=db4free.net;port=3306;username=user_samochody12;password=haslo_samochody123;";
                 MySqlConnection myConn = new MySqlConnection(myConnection);
 
-                MySqlCommand userSelect = new MySqlCommand(" select * from sql7751795.Users where username = '" + this.username_txt.Text + "' and password = '" + this.password_txt.Text + "' ;", myConn);
+                MySqlCommand userSelect = new MySqlCommand(" select * from baza_samochodow.users where username = '" + this.username_txt.Text + "' and password = '" + this.password_txt.Text + "' ;", myConn);
                 MySqlDataReader myReader;
                 myConn.Open();
                 myReader = userSelect.ExecuteReader();

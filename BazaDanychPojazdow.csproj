@@ -130,6 +130,7 @@
       <DependentUpon>Samochody.cs</DependentUpon>
     </Compile>
     <Compile Include="SqlManager.cs" />
+    <Compile Include="TextBoxExtensions.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
